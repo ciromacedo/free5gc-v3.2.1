@@ -25,6 +25,9 @@
 [submodule "udr"]
 	path = NFs/udr
 	url = https://github.com/free5gc/udr.git
+[submodule "nwdaf"]
+	path = NFs/nwdaf
+	url = https://github.com/ciromacedo/nwdaf.git
 [submodule "upf"]
 	path = NFs/upf
 	url = https://github.com/free5gc/go-upf.git
