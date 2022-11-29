@@ -41,7 +41,7 @@ free5GC is now under [Apache 2.0](https://github.com/free5gc/free5gc/blob/master
 
 ###### Git Clone with submodules
 ```
-git clone --recursive -b master -j `nproc` https://github.com/ciromacedo/free5gc.git
+git clone --recursive -b master -j `nproc` https://github.com/ciromacedo/free5gc-v3.2.1.git
 ```
 
 ###### Start NFs Functions
